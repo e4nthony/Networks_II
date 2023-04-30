@@ -1,3 +1,7 @@
+# This file listens to first message with name of user
+# and the after server knows his name the server can work with
+# this user and send messages to by request to/from this user.
+
 import socket
 
 # init server values
